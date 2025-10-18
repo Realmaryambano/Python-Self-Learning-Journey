@@ -3,7 +3,7 @@
 ## 🚀 Welcome  
 
 Welcome to my **personal Python self-learning journey!**  
-This repository documents my **daily progress** in Python, from fundamental concepts to advanced topics like **Data Structures & Algorithms**, **Data Science**, **Machine Learning**, and **Agentic AI**.  
+This repository documents my **daily progress** in Python, from fundamental concepts to advanced topics like **Data Science**, **Machine Learning**, and **Agentic AI**.  
 
 ---
 
